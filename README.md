@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello, I'm Luís Gustavo! 👋
 
-<!--
-**Gustabolou/gustabolou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about technology, always looking for new challenges. Currently, I'm focused on learning and improving my skills in various technologies.
 
-Here are some ideas to get you started:
+## 💡 Technologies I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+</div>
+
+## 🚀 About Me
+
+- ❤️ Passionate about technology and problem-solving.
+- 🌟 Always looking to learn something new.
+- 🌍 Exploring new ideas and building personal projects.
+
+## 📞 How to Reach Me
+
+- 🚷 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-gustavo-sales-b%C3%B3z-244083357/)
+
+Let's build something amazing together! 💡
+
+
+
