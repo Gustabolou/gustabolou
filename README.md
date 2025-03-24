@@ -5,7 +5,7 @@ I'm a passionate developer constantly exploring new challenges and technologies.
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustabolou&show_icons=true&theme=radical&height=150" alt="GitHub Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustabolou&show_icons=true&theme=radical&height=100" alt="GitHub Status"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustabolou&layout=compact&theme=radical&height=150" alt="Most Used Languages"/>
 </div>
 
