@@ -9,7 +9,6 @@ I'm a developer passionate about technology, always looking for new challenges. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
 </div>
@@ -23,13 +22,9 @@ I'm a developer passionate about technology, always looking for new challenges. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustabolou&show_icons=true&theme=radical" alt="GitHub Status"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustabolou&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustabolou&show_icons=true&theme=radical&height=150" alt="GitHub Status"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustabolou&layout=compact&theme=radical&height=150" alt="Most Used Languages"/>
 </div>
-
-## 🎮 GitHub Snake Game
-
-![Snake animation](https://github.com/Gustabolou/Gustabolou/blob/output/github-contribution-grid-snake.svg)
 
 ## 📞 How to Reach Me
 
