@@ -4,18 +4,6 @@ I'm a passionate developer constantly exploring new challenges and technologies.
 
 ---
 
-## 🚀 Technologies I work with
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-</div>
-
-------
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustabolou&show_icons=true&theme=radical&height=150" alt="GitHub Status"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustabolou&layout=compact&theme=radical&height=150" alt="Most Used Languages"/>
