@@ -11,9 +11,5 @@ I'm a passionate developer constantly exploring new challenges and technologies.
 
 ---
 
-## 📞 How to Reach Me
-
-- 🚷 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-gustavo-sales-b%C3%B3z-244083357/)
-
 Let's build something amazing together! 💡
 
